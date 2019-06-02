@@ -3,7 +3,7 @@
 ## Installation
 1. [Install docker-compose](https://docs.docker.com/compose/install/#install-compose).
 
-2. Clone this stuff: `git clone https://github.com/arellano-gustavo/letsencript.git .`
+2. Clone this stuff: `git clone https://github.com/arellano-gustavo/letsencrypt.git .`
 
 3. Modify configuration:
 - Add domains and email addresses to init-letsencrypt.sh
