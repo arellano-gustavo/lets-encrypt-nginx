@@ -6,6 +6,7 @@
 2. Clone this stuff: `git clone https://github.com/arellano-gustavo/letsencrypt.git .`
 
 3. Modify configuration:
+- Obtain your xip.io address by adding pre and suffix to your ip (e.g. 9.8.7.6 --> sample.9.8.7.6.xip.io)
 - Add domains and email addresses to init-letsencrypt.sh
 - Replace all occurrences of example.org with primary domain (the first one you added to init-letsencrypt.sh) in data/nginx/app.conf
 
